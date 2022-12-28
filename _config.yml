@@ -25,7 +25,7 @@ author:
 
 
 # URL settings
-url: "paradox48.github.io" # Domain Name of host. [username].github.io for github pages
+url: "paradox48" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
