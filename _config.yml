@@ -1,0 +1,82 @@
+# Site settings
+site: Paradox48
+title: Dmitry Smyrnov - Home page
+keywords: Paradox48, blog
+description: >-
+  Personal blog 
+lang: en-US
+timezone:  Europe/Athens
+google_verify:      XXX # Put your Google Verification here
+google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
+discus-identifier:  XXX
+
+# Author settings
+author:
+  name: Dmitry Smyrnov
+  bio: Software Engineer <br> JS/TS/Python <br> Open Source / linux
+  picture: assets/images/profile.jpg 
+  github: paradox48 # github username
+  # twitter: onepase # twitter username
+  facebook: smyrnov # facebook username
+  instagram: dmitry_smyrnov # instagram username
+  # youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
+  linkedin: dmitrysmyrnov # linkedin username
+  email: smyrnovd@gmail.com # email adress
+
+
+# URL settings
+url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+exclude:
+  - .jekyll-cache
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+paginate: 20
+paginate_path: "/page/:num"
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+relative_links:
+  enabled:     true
+  collections: false
