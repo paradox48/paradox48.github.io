@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Dmitry Smyrnov - Home page</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-12-28T20:23:21+00:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Dmitry Smyrnov</name>
+   <email>smyrnovd@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Justo imperdiet condimentum ad cum aca</title>
+   <link href="http://localhost:4000/justo-imperdiet-condimentum-ad-cum-acanone/"/>
+   <updated>2021-02-09T00:00:00+00:00</updated>
+   <id>http://localhost:4000/sample-3</id>
+   <content type="html">&lt;p&gt;Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens
+generis &lt;a href=&quot;http://www.fertur.io/aeacidis&quot;&gt;Iuppiter&lt;/a&gt; dederunt cerva refoventque,
+mea nulla secessit modo et. Hospes &lt;strong&gt;felices stetimusque&lt;/strong&gt; erat: &lt;strong&gt;Niobe
+nostro&lt;/strong&gt;, ne ruris &lt;em&gt;in deas extrema&lt;/em&gt;. Thebaides crimina, tu dixerat eripiet
+quiescere animae, pervenientia fuit furta sacrata illam, dabat. Quod munera
+monstra rimas ultra cunctos.&lt;/p&gt;
+
+&lt;p&gt;Incipit pars telis quod colebat tenet Iovis, Perseus et non Hectoris caesae temperat tetigere pulvis? Phaethonteos avus Asopida mansit proelia quamquam furoris: fuit Haemum functa non ferarum vincat &lt;em&gt;pretium te gloria&lt;/em&gt; ignibus.&lt;/p&gt;
+
+&lt;h2 id=&quot;potum-maius-urbem&quot;&gt;Potum maius urbem&lt;/h2&gt;
+
+&lt;p&gt;Polydori arvis. Quoniam faciesque dona plus Iasone &lt;strong&gt;credas&lt;/strong&gt;: et novem recipit
+praeceps desint: teneat naribus. &lt;a href=&quot;http://fierent.net/miserrimasecreta&quot;&gt;Athamanas
+Cupido&lt;/a&gt;, ureret gradere adapertaque nacta
+spargere pater et &lt;a href=&quot;http://nocte-conclamat.org/indiciique-micant&quot;&gt;fata&lt;/a&gt; ferrove
+&lt;strong&gt;et&lt;/strong&gt; loqui essem Tegeaea varios leviter. Et nymphis in exhibita villo!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ephesus.jpg&quot; alt=&quot;Ephesus&quot; title=&quot;Ephesus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sacra erat cuncta. Phoenix cursu regit, Diti, certaque nocte Iuno, amantem
+Achaia: est deus divellere tenet.&lt;/p&gt;
+
+&lt;h2 id=&quot;clara-poterant-caret&quot;&gt;Clara poterant caret&lt;/h2&gt;
+
+&lt;p&gt;Iungimus solis, est Inachides haut orbataque sedebat, tamen Crathis crinita
+parentem. Hanc ara quot caedis et spondere fit, illi diu Cereris Oechalia Iris
+vident septem, fumos condiderat rutilasque. Tenent instrumenta nudaverat dicta.
+Et et curis: quod Arcades ipsa: vellet, altius non madidos numina in.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Marmor regina Ionium elisa data Talibus rogat&lt;/li&gt;
+  &lt;li&gt;Novi nosterque hac perque poenam exemplis&lt;/li&gt;
+  &lt;li&gt;Finemque nitidis alteriusque odiique aspicit Tartessia est&lt;/li&gt;
+  &lt;li&gt;Iuvenum nostri alipedi&lt;/li&gt;
+  &lt;li&gt;Quae remorata et arto silvestre fidae adhuc&lt;/li&gt;
+  &lt;li&gt;Cornua altus intrat os vocant regia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Petentem pro quod Boreas mens refers: referre et idem natus caput Martis temone
+tapetibus. Partim vis neve maledictaque crede parentum puppes orbe subterque
+potiar. Te auras totum tertius pondera puer novat &lt;strong&gt;Verque&lt;/strong&gt; fugit frugiferas
+ultima tuas dei territus di ablatus, cum des artes.&lt;/p&gt;
+
+&lt;p&gt;Socium est facti est enim neve patris facto Laertaque formam. E quoque manibus
+Cecropio telorum &lt;em&gt;ultima&lt;/em&gt;, est non &lt;a href=&quot;http://manus.io/est&quot;&gt;est&lt;/a&gt;, sim desiluit
+solida; fecit. Variarum &lt;strong&gt;Schoeneia&lt;/strong&gt; pomaque in protinus disiunxisse puer,
+elaborque modo: hos religata, tandem mihi amor mortalia. Hostem et tamen
+carchesia Bacchi heros crocique ignibus redeamus quae frustra vidit?&lt;/p&gt;
+
+&lt;p&gt;Iungimus solis, est Inachides haut orbataque sedebat, tamen Crathis crinita
+parentem. Hanc ara quot caedis et spondere fit, illi diu Cereris Oechalia Iris
+vident septem, fumos condiderat rutilasque. Tenent instrumenta nudaverat dicta.
+Et et curis: quod Arcades ipsa: vellet, altius non madidos numina in.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Marmor regina Ionium elisa data Talibus rogat&lt;/li&gt;
+  &lt;li&gt;Novi nosterque hac perque poenam exemplis&lt;/li&gt;
+  &lt;li&gt;Finemque nitidis alteriusque odiique aspicit Tartessia est&lt;/li&gt;
+  &lt;li&gt;Iuvenum nostri alipedi&lt;/li&gt;
+  &lt;li&gt;Quae remorata et arto silvestre fidae adhuc&lt;/li&gt;
+  &lt;li&gt;Cornua altus intrat os vocant regia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Petentem pro quod Boreas mens refers: referre et idem natus caput Martis temone
+tapetibus. Partim vis neve maledictaque crede parentum puppes orbe subterque
+potiar. Te auras totum tertius pondera puer novat &lt;strong&gt;Verque&lt;/strong&gt; fugit frugiferas
+ultima tuas dei territus di ablatus, cum des artes.&lt;/p&gt;
+
+&lt;p&gt;Socium est facti est enim neve patris facto Laertaque formam. E quoque manibus
+Cecropio telorum &lt;em&gt;ultima&lt;/em&gt;, est non &lt;a href=&quot;http://manus.io/est&quot;&gt;est&lt;/a&gt;, sim desiluit
+solida; fecit. Variarum &lt;strong&gt;Schoeneia&lt;/strong&gt; pomaque in protinus disiunxisse puer,
+elaborque modo: hos religata, tandem mihi amor mortalia. Hostem et tamen
+carchesia Bacchi heros crocique ignibus redeamus quae frustra vidit?&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
